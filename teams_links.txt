@@ -1,0 +1,20 @@
+Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281
+Chelsea FC,https://www.transfermarkt.com/chelsea-fc/startseite/verein/631
+Arsenal FC,https://www.transfermarkt.com/arsenal-fc/startseite/verein/11
+Liverpool FC,https://www.transfermarkt.com/liverpool-fc/startseite/verein/31
+Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985
+Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148
+Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762
+Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405
+West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379
+Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003
+Southampton FC,https://www.transfermarkt.com/southampton-fc/startseite/verein/180
+Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543
+Leeds United,https://www.transfermarkt.com/leeds-united/startseite/verein/399
+Everton FC,https://www.transfermarkt.com/everton-fc/startseite/verein/29
+Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237
+Brentford FC,https://www.transfermarkt.com/brentford-fc/startseite/verein/1148
+Nottingham Forest,https://www.transfermarkt.com/nottingham-forest/startseite/verein/703
+Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873
+Fulham FC,https://www.transfermarkt.com/fulham-fc/startseite/verein/931
+AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989
